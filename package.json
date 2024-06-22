@@ -1,0 +1,22 @@
+{
+  "name": "air_ticket-707",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "air.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GHULAM RAUF KHAN",
+  "license": "ISC",
+  "description": "AIR TICKETING FOR EVERY ONE CAN USE THE SERVICE.",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.8"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "inquirer": "^9.2.23"
+  }
+}
